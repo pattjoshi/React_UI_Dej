@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_UI_Dej/static/css/main.8578eecb.css",
+    "main.js": "/React_UI_Dej/static/js/main.ab89eb20.js",
+    "static/media/woman.png": "/React_UI_Dej/static/media/woman.da532fd0042f81a9ff95.png",
+    "static/media/how.png": "/React_UI_Dej/static/media/how.a7fa56932b0b35e8b1cb.png",
+    "static/media/app.png": "/React_UI_Dej/static/media/app.84dc5c0bc040f5b9fbd9.png",
+    "index.html": "/React_UI_Dej/index.html",
+    "main.8578eecb.css.map": "/React_UI_Dej/static/css/main.8578eecb.css.map",
+    "main.ab89eb20.js.map": "/React_UI_Dej/static/js/main.ab89eb20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8578eecb.css",
+    "static/js/main.ab89eb20.js"
+  ]
+}

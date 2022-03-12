@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8578eecb.css","mappings":"AAAA,WAEE,oBAAqB,CADrB,YAEF,CAEA,QACE,SACF","sources":["style.css"],"sourcesContent":[".container {\n  height: 100vh;\n  background-color: red;\n}\n\n.cxtpWi {\n  width: 50%;\n}\n"],"names":[],"sourceRoot":""}
